@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vidhya sagar</h1>
 <h3 align="center">A passionate full stack web developer and web designer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#query=coding%20gif&position=17&from_view=keyword&track=ais&uuid=6fb9302a-2402-44ea-8fc5-db9650426976"
+<img align="right" alt="coding" width="400" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhyasagargslv&label=Profile%20views&color=0e75b6&style=flat" alt="vidhyasagargslv" /> </p>
 
