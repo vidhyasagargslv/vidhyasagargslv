@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidhyasagargslv&label=Profile%20views&color=0e75b6&style=flat" alt="vidhyasagargslv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhyasagargslv" alt="vidhyasagargslv" /></a> </p>
-<img align="right" alt="coding" width="380" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"
+<img align="right" alt="coding" width="350" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"
 
 - 🔭 I’m currently working on full stack application *InnovAiHub*
 
