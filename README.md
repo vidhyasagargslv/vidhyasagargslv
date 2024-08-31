@@ -15,7 +15,7 @@
 
 - 📫 How to reach me *vidhyasagargslv@gmail.com*
 
-- ⚡ Fun fact *I am tech enthusiastic person*
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
