@@ -7,9 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vidhyasagargslv" alt="vidhyasagargslv" /></a> </p>
 <img align="right" alt="coding" width="350" src="https://www.codium.ai/wp-content/uploads/2023/10/how-does-code-integrity-work.gif"
 
-- 🔭 I’m currently working on full stack application *InnovAiHub*
+- 🔭 I’m currently working as frontend developer intern at *Qodeways*
 
-- 🌱 I’m currently learning *Next js and astro*
+- 🌱 I’m currently learning *Next js and Redux*
 
 - 💬 Ask me about *React, ui/ux designing,css,drf*
 
